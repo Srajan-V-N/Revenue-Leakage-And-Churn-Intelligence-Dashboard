@@ -94,7 +94,7 @@ This page provides a **high-level summary** for executives and senior stakeholde
 
 ![Churn Drivers](screenshots/Churn_Intelligence.png)
 
-**Fig 2:** Diagnostic analysis of churn behavior across customer attributes.
+<p align="center"><b>Fig 2:</b> Diagnostic analysis of churn behavior across customer attributes.</p>
 
 ### Purpose
 This page focuses on **diagnostic analysis**, answering the question: *why are customers churning?*
@@ -120,7 +120,7 @@ This analysis helps identify **operational and behavioral factors** that can be 
 
 ![Revenue Leakage](screenshots/Revenue_Leakage_Analysis.png)
 
-**Fig 3:** Financial impact analysis highlighting revenue leakage across customer segments.
+<p align="center"><b>Fig 3:</b> Financial impact analysis highlighting revenue leakage across customer segments.</p>
 
 ### Purpose
 This page shifts focus from churn volume to **financial impact**, identifying where churn results in the greatest revenue loss.
@@ -145,7 +145,7 @@ Supports **ROI-driven retention decisions** by directing resources toward the se
 
 ![High Risk Customers](screenshots/ML_Insights.png)
 
-**Fig 4:** Action-oriented identification of customers with very high churn risk.
+<p align="center"><b>Fig 4:</b> Action-oriented identification of customers with very high churn risk.</p>
 
 ### Purpose
 This page is designed for **execution and action**, enabling teams to identify customers who require immediate retention efforts.
@@ -193,6 +193,8 @@ This dashboard enables organizations to:
 ---
 
 ## Project Structure
+
+```text
 Revenue Leakage Churn Intelligence/
 │
 ├── data/
@@ -227,6 +229,7 @@ Revenue Leakage Churn Intelligence/
 │
 └── README.md
 
+```
 
 ---
 
