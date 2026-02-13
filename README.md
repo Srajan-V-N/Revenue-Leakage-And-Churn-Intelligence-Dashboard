@@ -228,7 +228,6 @@ Revenue Leakage Churn Intelligence/
 │   └── revenue_metrics.sql
 │
 └── README.md
-
 ```
 
 ---
