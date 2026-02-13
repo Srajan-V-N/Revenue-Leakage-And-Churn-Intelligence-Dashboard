@@ -69,7 +69,7 @@ The dataset includes:
 
 ![Executive Overview](screenshots/Executive_Overview.png)
 
-**Fig 1:** Executive overview summarizing customer churn and revenue exposure.
+<p align="center"><b>Fig 1:</b> Executive overview summarizing churn and revenue exposure.</p>
 
 ### Purpose
 This page provides a **high-level summary** for executives and senior stakeholders, enabling them to quickly assess the scale of churn and its financial impact.
